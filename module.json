@@ -1,7 +1,7 @@
 {
 	"name": "Dynamic Effects SRD",
 	"title": "Dynamic Effects SRD",
-	"description": SRD items, feats, spell configured for Dynamic Effects, MQoL and AT",
+	"description": "SRD items, feats, spell configured for Dynamic Effects, MQoL and AT",
 	"author": "Kandashi",
 	"version": "0.0.1",
 	"minimumCoreVersion": "0.6.6",
@@ -41,5 +41,7 @@
 			"entity": "Macro",
 			"module": "Dynamic Effects Items"
 		}    		
-	]
+	],
+	 "url": "https://github.com/kandashi/Dynamic-Effects-SRD",
+  "manifest": "https://raw.githubusercontent.com/kandashi/Dynamic-Effects-SRD/master/module.json",
 }
