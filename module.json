@@ -1,0 +1,45 @@
+{
+	"name": "Dynamic Effects SRD",
+	"title": "Dynamic Effects SRD",
+	"description": SRD items, feats, spell configured for Dynamic Effects, MQoL and AT",
+	"author": "Kandashi",
+	"version": "0.0.1",
+	"minimumCoreVersion": "0.6.6",
+	"compatibleCoreVersion": "0.6.6",
+	"packs": [
+		{
+			"name": "DE SRD Items",
+			"label": "DE SRD  Items",
+			"path": "packs/equipment.db",
+			"entity": "Item",
+			"module": "Dynamic Effects Items"
+		},
+		{
+			"name": "DE SRD Spells",
+			"label": "DE SRD Spells",
+			"path": "packs/spells.db",
+			"entity": "Item",
+			"module": "Dynamic Effects Items"
+		},
+		{
+			"name": "DE SRD Weapons",
+			"label": "DE SRD Weapons",
+			"path": "packs/weapons.db",
+			"entity": "Item",
+			"module": "Dynamic Effects Items"
+		},
+		{
+			"name": "DE SRD Feats",
+			"label": "My Features",
+			"path": "packs/feats.db",
+			"entity": "Item",
+			"module": "Dynamic Effects Items"
+		},
+		{	"name": "DE SRD Macros",
+			"label": "My Macros",
+			"path": "packs/macros.db",
+			"entity": "Macro",
+			"module": "Dynamic Effects Items"
+		}    		
+	]
+}
