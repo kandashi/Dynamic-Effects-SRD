@@ -4,7 +4,7 @@
 	"description": "DnD 5e SRD items, features and spells configured for Dynamic Effects, MQoL and AT",
 	"author": "Kandashi",
 	"version": "0.0.1",
-	"systems": ["dnd5e"],
+	"systems": "dnd5e",
 	"minimumCoreVersion": "0.6.6",
 	"compatibleCoreVersion": "0.6.6",
 	"packs": [
@@ -44,6 +44,6 @@
 		}    		
 	],
 	 "url": "https://github.com/kandashi/Dynamic-Effects-SRD",
-  "manifest": "https://raw.githubusercontent.com/kandashi/Dynamic-Effects-SRD/master/module.json",
+         "manifest": "https://raw.githubusercontent.com/kandashi/Dynamic-Effects-SRD/master/module.json",
 	"download": "https://github.com/kandashi/Dynamic-Effects-SRD/archive/v0.0.2.zip"
 }
