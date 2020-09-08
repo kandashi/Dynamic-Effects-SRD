@@ -23,13 +23,6 @@
 			"module": "Dynamic Effects Items"
 		},
 		{
-			"name": "DE SRD Weapons",
-			"label": "DE SRD Weapons",
-			"path": "packs/weapons.db",
-			"entity": "Item",
-			"module": "Dynamic Effects Items"
-		},
-		{
 			"name": "DE SRD Feats",
 			"label": "DE SRD Feats",
 			"path": "packs/feats.db",
