@@ -31,13 +31,13 @@
 		},
 		{
 			"name": "DE SRD Feats",
-			"label": "My Features",
+			"label": "DE SRD Feats",
 			"path": "packs/feats.db",
 			"entity": "Item",
 			"module": "Dynamic Effects Items"
 		},
 		{	"name": "DE SRD Macros",
-			"label": "My Macros",
+			"label": "DE SRD Macros",
 			"path": "packs/macros.db",
 			"entity": "Macro",
 			"module": "Dynamic Effects Items"
