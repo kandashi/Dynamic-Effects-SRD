@@ -7,5 +7,9 @@ Midi QoL and Furnace (with advanced macros enabled) are needed for auto effect a
 About Time is required for auto effect removal. 
 
 
-Spells are drag/drop onto actors. Level 1 SRD spells and cantrips are finished. 
+Spells are drag/drop onto actors. 
 I suggest importing all the macros to directory to avoid any issues.
+
+
+V0.05 Level 1 spells and cantrips finished
+V0.0.6 Most SRD Items finished, excluding more complicated macro items
