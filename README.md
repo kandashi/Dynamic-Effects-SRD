@@ -21,5 +21,8 @@ I suggest importing all the macros to directory to avoid any issues.
 
 
 V0.05 Level 1 spells and cantrips finished
+
 V0.0.6 Most SRD Items finished, excluding more complicated macro items
+
+
 V0.0.7 Spell macros cleaned up, spell removal macro added and spell storage method moved to actor.data to save between scenes
