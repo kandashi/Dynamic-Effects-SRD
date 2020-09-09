@@ -1,8 +1,10 @@
 # Dynamic-Effects-SRD
-A compendium pack for SRD items, spells, feats etc configured for use with Dynamic Effects, Midi QoL, Furnace and About Time
+A compendium pack for SRD items, spells, feats etc configured for use with Dynamic Effects, MQoL, Furnace and About Time
+--
 DE is 100% required.
 
-Midi QoL and Furnace (with advanced macros enabled) are needed for auto effect application (effects without macro calls do not need Furnace).
+MQoL and Furnace (with advanced macros enabled) are needed for auto effect application (effects without macro calls do not need Furnace); in the MQoL settings 
+"Auto apply Active Effects to targets" must be enabled for any "Active Effect" to correctly apply to the target.
 
 About Time is required for auto effect removal.
 
