@@ -1,6 +1,9 @@
 # Dynamic-Effects-SRD
 A compendium pack for SRD items, spells, feats etc configured for use with Dynamic Active Effects, MQoL, Furnace and About Time
 --
+
+###Anything with an X next to the name is currently broken
+
 ### DAE is 100% required.
 
 ### MQoL and Furnace are needed for auto effect application 
