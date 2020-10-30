@@ -8,9 +8,9 @@ A compendium pack for SRD items, spells, feats etc configured for use with Dynam
 
 ### MQoL and sometimes Furnace are needed for auto effect application 
 Effects without macro calls do not need Furnace. For MQoL, the setting "Auto apply Active Effects to targets" must be enabled for any "Active Effect" to correctly apply to the target. Some sort of Auto-Check for hit/save must also be enabled to apply the effects:
-![Midi Settings 1](https://github.com/kandashi/Dynamic-Effects-SRD/blob/0.2.5/Images/Midi%20Settings.PNG)
-![Midi Settings 2](https://github.com/kandashi/Dynamic-Effects-SRD/blob/0.2.5/Images/Midi%20Settings%202.PNG)
-![Furnace Settings](https://github.com/kandashi/Dynamic-Effects-SRD/blob/0.2.5/Images/Furnace%20Settings.PNG)
+![Midi Settings 1](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Midi%20Settings.PNG)
+![Midi Settings 2](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Midi%20Settings%202.PNG)
+![Furnace Settings](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Furnace%20Settings.PNG)
 
 ### About Time or Times Up are required for auto effect removal.
 Without About Time or Times Up (or for effects that finish before their full time; navigate to the Active Effects tab of the effected actor and remove the Active Effect manually.
