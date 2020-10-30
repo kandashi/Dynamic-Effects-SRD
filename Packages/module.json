@@ -1,0 +1,42 @@
+{
+	"name": "Dynamic-Effects-SRD",
+	"title": "Dynamic Active Effects SRD",
+	"description": "DnD 5e SRD items, features and spells configured for Dynamic Active Effects, MQoL and AT",
+	"author": "Kandashi",
+	"version": "0.2.4",
+	"systems": ["dnd5e"],
+	"minimumCoreVersion": "0.7.5",
+	"compatibleCoreVersion": "0.7.5",
+	"packs": [
+		{
+			"name": "DAE SRD Items",
+			"label": "DAE SRD  Items",
+			"path": "packs/equipment.db",
+			"entity": "Item",
+			"module": "Dynamic Effects Items"
+		},
+		{
+			"name": "DAE SRD Spells",
+			"label": "DAE SRD Spells",
+			"path": "packs/spells.db",
+			"entity": "Item",
+			"module": "Dynamic Effects Items"
+		},
+		{
+			"name": "DAE SRD Feats",
+			"label": "DAE SRD Feats",
+			"path": "packs/feats.db",
+			"entity": "Item",
+			"module": "Dynamic Effects Items"
+		},
+		{	"name": "DAE SRD Macros",
+			"label": "DAE SRD Macros",
+			"path": "packs/macros.db",
+			"entity": "Macro",
+			"module": "Dynamic Effects Items"
+		}    		
+	],
+	 "url": "https://github.com/kandashi/Dynamic-Effects-SRD",
+         "manifest": "https://raw.githubusercontent.com/kandashi/Dynamic-Effects-SRD/master/module.json",
+	"download": "https://github.com/kandashi/Dynamic-Effects-SRD/archive/master.zip"
+}
