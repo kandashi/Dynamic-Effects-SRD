@@ -19,6 +19,7 @@ To use any of the macro style effects you **must** import the following macros f
 * ActorGetFlag
 * ActorUpdate
 * TokenUpdate
+* CUB control
 
 
 
