@@ -38,5 +38,5 @@
 	],
 	 "url": "https://github.com/kandashi/Dynamic-Effects-SRD",
          "manifest": "https://raw.githubusercontent.com/kandashi/Dynamic-Effects-SRD/master/Packages/module.json",
-	"download": "https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Packages/Dynamic-Effects-SRD-master.zip"
+	"download": "https://github.com/kandashi/Dynamic-Effects-SRD/blob/fix-fof-0.6.6-bug/Packages/Dynamic-Effects-SRD-0.6.6.zip"
 }
