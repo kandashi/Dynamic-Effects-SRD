@@ -36,7 +36,14 @@
 			"module": "Dynamic Effects Items"
 		}    		
 	],
+	"dependencies": [
+    {
+      "name": "dae",
+      "manifest": "https://gitlab.com/tposney/dae/raw/master/package/module.json"
+    }
+  ],
 	 "url": "https://github.com/kandashi/Dynamic-Effects-SRD",
          "manifest": "https://raw.githubusercontent.com/kandashi/Dynamic-Effects-SRD/master/module.json",
 	"download": "https://github.com/kandashi/Dynamic-Effects-SRD/archive/master.zip"
+
 }
