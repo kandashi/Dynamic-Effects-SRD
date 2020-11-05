@@ -24,6 +24,14 @@ To use any of the macro style effects you **must** import the following macros f
 * TokenUpdate
 * CUB Condition
 
+## Spells that require macros
+- Aid, Alter Self, Banishment, Blindness/Deafness
+- Darkvision, Enhance Ability, Enlarge/Reduce, Eyebite
+- Fireshield, Haste, Heroes Feast, Heroism
+- Invisibility, Greater Invisibility, Levitate, Longstrider
+- Magic Weapon, Protection from Energy
+- Ray of Frost, Shillelagh, Slow
+
 
 
 
