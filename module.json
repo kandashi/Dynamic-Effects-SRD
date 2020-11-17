@@ -40,7 +40,13 @@
 			"path": "packs/MidiItems.db",
 			"entity": "Item",
 			"module": "Dynamic Effects Items"
-		}    		
+		},
+                {	"name": "DAE SRD Magic Items",
+			"label": "SRD Magic Items",
+			"path": "packs/MagicItems.db",
+			"entity": "Item",
+			"module": "Dynamic Effects Items"
+		}     		
 	],
 	 "url": "https://github.com/kandashi/Dynamic-Effects-SRD",
          "manifest": "https://raw.githubusercontent.com/kandashi/Dynamic-Effects-SRD/master/module.json",
