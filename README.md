@@ -30,7 +30,11 @@ To use any of the macro style effects you **must** import the following macros f
 - Fireshield, Haste, Heroes Feast, Heroism
 - Invisibility, Greater Invisibility, Levitate, Longstrider
 - Magic Weapon, Protection from Energy
-- Ray of Frost, Shillelagh, Slow
+- Shillelagh, Slow
+
+
+## Magic Items module is now included in the compendium packs
+- Compendium pack is named SRD Magic Items
 
 
 
