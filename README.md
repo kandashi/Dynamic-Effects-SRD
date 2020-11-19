@@ -48,6 +48,8 @@ To use any of the macro style effects you **must** import the following macros f
 **V0.1.0** Most higher level spells without macro effects have been added. Macros now have the option to be stored within the item itself (thanks to the Item Macro functionality)  
 **V0.2.0** Updated to DAE and 0.7.5 compatability, removed item macros (you can add/edit them yourself if you really need to) 
 **V0.2.1-6** Various fixes and updates
-
+**V3.0.0** Added support for Magic Items
+**V3.0.2** 
+- Fixed Staff of Power, Broom of Flying, Boots of Speed, Boots of Striding and Springing, Potion of Flying, Boots of Levitation moved to Magic Items, added Wings of Flying, fixed old Winged Boots, Fixed Aid and Haste, reworked Longstrider, Slow,Spiderclimb and fly to not reqiuire macros. 
 
 IF you want to support me my patreon is here https://www.patreon.com/Kandashi
