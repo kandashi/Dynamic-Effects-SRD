@@ -59,3 +59,6 @@ To use any of the macro style effects you **must** import the following macros f
 - Added Wings of Flying
 
 IF you want to support me my patreon is here https://www.patreon.com/Kandashi
+
+**V3.0.3**
+- Fix for various armour priority mis-matches with core DAE
