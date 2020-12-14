@@ -62,3 +62,16 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 
 **V3.0.3**
 - Fix for various armour priority mis-matches with core DAE
+
+**V4.0.0**
+- Updated a lot of spells/items to fall in line with DnD5e 1.2.0, Midi 0.3.35 and DAE 0.2.28
+- Added experimental version of Bracers of Archery, Alter Self and Deamon Armor to take use of the item effects from DAE
+- Added Dust of Disappearance, Goggles of Night, Horseshoes of Speed, Boots of Elvenkind
+- Added Midi versions of Invisibility and Heroes' Feast for timeouts and advanatage on wis saves
+- Updated Blindness/Deafness to not require a macro
+- Added specific damage types for Divine Favour
+- Added Contagion, Divine Word (requires About Time), Faerie Fire, Feeblemind, True Strike spells, all require Midi some need CUB (Contagion and Divine Word)
+- Added "summon" spells: Flame Blade, Moonbeam these create items in the actors inventory to avoid "repeat casting"
+- Added Ray of Enfeeblement, Regenerate (requires About Time) spells, True Strike
+- Changed Rage name to fix with replacements/importers
+- Reworked Unarmored Defense to be a singe name with 2 different effects, delete as required
