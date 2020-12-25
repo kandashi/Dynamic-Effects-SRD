@@ -75,3 +75,7 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 - Added Ray of Enfeeblement, Regenerate (requires About Time) spells, True Strike
 - Changed Rage name to fix with replacements/importers
 - Reworked Unarmored Defense to be a singe name with 2 different effects, delete as required
+
+**V4.0.3**
+- Fixed Unarmoured Defense (Monk)
+- Fixed Heroes' Feast macro (thanks to Lyra)
