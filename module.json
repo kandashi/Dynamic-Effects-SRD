@@ -3,7 +3,7 @@
 	"title": "Dynamic Active Effects SRD",
 	"description": "DnD 5e SRD items, features and spells configured for Dynamic Active Effects, MQoL and AT",
 	"author": "Kandashi",
-	"version": "4.0.33",
+	"version": "4.0.4",
 	"systems": ["dnd5e"],
 	"minimumCoreVersion": "0.7.5",
 	"compatibleCoreVersion": "0.7.8",
