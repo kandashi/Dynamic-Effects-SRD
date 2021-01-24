@@ -79,3 +79,6 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 **V4.0.3**
 - Fixed Unarmoured Defense (Monk)
 - Fixed Heroes' Feast macro (thanks to Lyra)
+
+**V4.1.0**
+- added Arcane Sword
