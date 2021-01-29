@@ -81,4 +81,6 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 - Fixed Heroes' Feast macro (thanks to Lyra)
 
 **V4.1.0**
-- added Arcane Sword, Beacon of Hope, Call Lightning, Confusion, Faerie Fire, Flesh to Stone, Grease, Misty Step, Irresistable Dance and Warding Bond
+- [BREAKING] All DAE SRD macro spells now almost require Times Up for correct removal, it will not prevent use, but lots of the spells require its functionality now
+- Added Arcane Sword, Beacon of Hope, Call Lightning, Confusion, Faerie Fire, Flesh to Stone, Grease, Misty Step, Irresistable Dance and Warding Bond
+- Fixed Moonbeam and Cloak of Displacement
