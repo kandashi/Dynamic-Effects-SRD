@@ -79,3 +79,9 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 **V4.0.3**
 - Fixed Unarmoured Defense (Monk)
 - Fixed Heroes' Feast macro (thanks to Lyra)
+
+**V4.1.0**
+- [BREAKING] All DAE SRD macro spells now almost require Times Up for correct removal, it will not prevent use, but lots of the spells require its functionality now
+- [BREAKING] All DAE SRD spells now use Item Macros. This **does not** require you to install that module. The spells will now run without importing any macros at all
+- Added Arcane Sword, Beacon of Hope, Call Lightning, Confusion, Faerie Fire, Flesh to Stone, Grease, Misty Step, Irresistable Dance and Warding Bond
+- Fixed Moonbeam and Cloak of Displacement
