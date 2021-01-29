@@ -81,4 +81,4 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 - Fixed Heroes' Feast macro (thanks to Lyra)
 
 **V4.1.0**
-- added Arcane Sword
+- added Arcane Sword, Beacon of Hope, Call Lightning, Confusion, Faerie Fire, Flesh to Stone, Grease, Misty Step, Irresistable Dance and Warding Bond
