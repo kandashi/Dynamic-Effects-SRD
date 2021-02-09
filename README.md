@@ -2,8 +2,6 @@
 A compendium pack for SRD items, spells, feats etc configured for use with Dynamic Active Effects, MQoL, Furnace and About Time/Times Up
 --
 
-### Anything with an X next to the name is currently broken
-
 ### DAE is 100% required.
 
 ### MQoL and sometimes Furnace are needed for auto effect application 
@@ -12,31 +10,14 @@ Effects without macro calls do not need Furnace. For MQoL, the setting "Auto app
 ![Midi Settings 2](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Midi%20Settings%202.PNG)
 ![Furnace Settings](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Furnace%20Settings.PNG)
 
-### About Time or Times Up are required for auto effect removal.
+### About Time/Times Up are required for auto effect removal. About Time for non-combat expiry, Times Up for in-combat expiry
 Without About Time or Times Up (or for effects that finish before their full time; navigate to the Active Effects tab of the effected actor and remove the Active Effect manually.
 
-## Core Macros
-To use any of the macro style effects you **must** import the following macros from the compendium: 
-* ActorSetFlag
-* ActorUnSetFlag
-* ActorGetFlag
-* ActorUpdate
-* TokenUpdate
-* CUB Condition
-
-## Spells that require macros
-- Aid, Alter Self, Banishment, Blindness/Deafness
-- Darkvision, Enhance Ability, Enlarge/Reduce, Eyebite
-- Fireshield, Haste, Heroes Feast, Heroism
-- Invisibility, Greater Invisibility, Levitate, Longstrider
-- Magic Weapon, Protection from Energy
-- Shillelagh, Slow
-
+## Any macro style effect is now embedded in the item itself
+ This means they should be simply drag-click to use. If you use Item Macros with character sheet hooks turned on, you will need to use the "roll default item" option to trigger these macros
 
 ## Magic Items module is now included in the compendium packs
 - Compendium pack is named SRD Magic Items
-
-
 
 
 **V0.05** Level 1 spells and cantrips finished
