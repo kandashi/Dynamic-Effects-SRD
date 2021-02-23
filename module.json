@@ -7,6 +7,8 @@
 	"systems": ["dnd5e"],
 	"minimumCoreVersion": "0.7.5",
 	"compatibleCoreVersion": "0.7.8",
+	"allowBugReporter": true,
+	"bugs": "https://github.com/kandashi/Dynamic-Effects-SRD/issues"
 	"packs": [
 		{
 			"name": "DAE SRD Items",
