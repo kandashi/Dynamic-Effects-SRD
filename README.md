@@ -66,3 +66,10 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 - [BREAKING] All DAE SRD spells now use Item Macros. This **does not** require you to install that module. The spells will now run without importing any macros at all
 - Added Arcane Sword, Beacon of Hope, Call Lightning, Confusion, Faerie Fire, Flesh to Stone, Grease, Misty Step, Irresistable Dance and Warding Bond
 - Fixed Moonbeam and Cloak of Displacement
+
+**V4.1.08**
+- Fixed Slippers of Climbing
+- Fixed Wings of Flying
+- Fixed Spider Climb
+- Fixed Invisibility spells and cleaned up spare versions
+- Added Web
