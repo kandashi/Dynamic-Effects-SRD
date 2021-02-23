@@ -68,8 +68,6 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 - Fixed Moonbeam and Cloak of Displacement
 
 **V4.1.08**
-- Fixed Slippers of Climbing
-- Fixed Wings of Flying
-- Fixed Spider Climb
-- Fixed Invisibility spells and cleaned up spare versions
+- Fixed Slippers of Climbing, Wings of Flying, Spider Climb, Invisibility spells and cleaned up spare versions
 - Added Web
+- Added Bug Reporter compatability https://github.com/League-of-Foundry-Developers/bug-reporter
