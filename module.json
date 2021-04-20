@@ -3,7 +3,7 @@
 	"title": "Dynamic Active Effects SRD",
 	"description": "DnD 5e SRD items, features and spells configured for Dynamic Active Effects, MQoL and AT",
 	"author": "Kandashi",
-	"version": "4.1.11",
+	"version": "4.1.12",
 	"systems": ["dnd5e"],
 	"minimumCoreVersion": "0.7.5",
 	"compatibleCoreVersion": "0.7.9",
@@ -11,7 +11,7 @@
 	"bugs": "https://github.com/kandashi/Dynamic-Effects-SRD/issues",
 	"packs": [
 		{
-			"name": "DAE SRD Items",
+			"name": "DAE SRD Items",	
 			"label": "DAE SRD  Items",
 			"path": "packs/equipment.db",
 			"entity": "Item",
@@ -31,19 +31,13 @@
 			"entity": "Item",
 			"module": "Dynamic Effects Items"
 		},
-		{	"name": "DAE SRD Macros",
-			"label": "DAE SRD Macros",
-			"path": "packs/macros.db",
-			"entity": "Macro",
-			"module": "Dynamic Effects Items"
-		},
-                {	"name": "DAE SRD Midi-collection",
+            {	"name": "DAE SRD Midi-collection",
 			"label": "DAE SRD Midi-collection",
 			"path": "packs/MidiItems.db",
 			"entity": "Item",
 			"module": "Dynamic Effects Items"
 		},
-                {	"name": "DAE SRD Magic Items",
+            {	"name": "DAE SRD Magic Items",
 			"label": "SRD Magic Items",
 			"path": "packs/MagicItems.db",
 			"entity": "Item",
