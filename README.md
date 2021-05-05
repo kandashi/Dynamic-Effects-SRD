@@ -71,3 +71,7 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 - Fixed Slippers of Climbing, Wings of Flying, Spider Climb, Invisibility spells and cleaned up spare versions
 - Added Web
 - Added Bug Reporter compatability https://github.com/League-of-Foundry-Developers/bug-reporter
+
+**V4.1.13**
+-Fixed Spiritual Weapon, Magic Weapon. 
+- Added Potion of Heroism
