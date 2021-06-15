@@ -1,14 +1,13 @@
 # Dynamic-Effects-SRD
-A compendium pack for SRD items, spells, feats etc configured for use with Dynamic Active Effects, MQoL, Furnace and About Time/Times Up
+A compendium pack for SRD items, spells, feats etc configured for use with Dynamic Active Effects, MQoL, Advanced Macros and About Time/Times Up
 --
 
 ### DAE is 100% required.
 
-### MQoL and sometimes Furnace are needed for auto effect application 
-Effects without macro calls do not need Furnace. For MQoL, the setting "Auto apply Active Effects to targets" must be enabled for any "Active Effect" to correctly apply to the target. Some sort of Auto-Check for hit/save must also be enabled to apply the effects:
+### MQoL and the Advanced Macros are needed for auto effect application 
+Effects without macro calls do not need Advanced Macros. For MQoL, the setting "Auto apply Active Effects to targets" must be enabled for any "Active Effect" to correctly apply to the target. Some sort of Auto-Check for hit/save must also be enabled to apply the effects:
 ![Midi Settings 1](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Midi%20Settings.PNG)
 ![Midi Settings 2](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Midi%20Settings%202.PNG)
-![Furnace Settings](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Furnace%20Settings.PNG)
 
 ### About Time/Times Up are required for auto effect removal. About Time for non-combat expiry, Times Up for in-combat expiry
 Without About Time or Times Up (or for effects that finish before their full time; navigate to the Active Effects tab of the effected actor and remove the Active Effect manually.
@@ -75,3 +74,7 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 **V4.1.13**
 -Fixed Spiritual Weapon, Magic Weapon. 
 - Added Potion of Heroism
+
+**V5.0.01**
+- 0.8.6 compatability
+- removed sickening radiance, use Active Auras for this
