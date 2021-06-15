@@ -3,10 +3,10 @@
 	"title": "Dynamic Active Effects SRD",
 	"description": "DnD 5e SRD items, features and spells configured for Dynamic Active Effects, MQoL and AT",
 	"author": "Kandashi",
-	"version": "4.1.13",
+	"version": "5.0.00",
 	"systems": ["dnd5e"],
-	"minimumCoreVersion": "0.7.5",
-	"compatibleCoreVersion": "0.7.9",
+	"minimumCoreVersion": "0.8.5",
+	"compatibleCoreVersion": "0.8.6",
 	"allowBugReporter": true,
 	"bugs": "https://github.com/kandashi/Dynamic-Effects-SRD/issues",
 	"packs": [
