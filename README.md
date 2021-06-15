@@ -75,3 +75,8 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 **V4.1.13**
 -Fixed Spiritual Weapon, Magic Weapon. 
 - Added Potion of Heroism
+
+**V4.0.00**
+-0.8.6 updates
+-Sickening Radiance spell removed, use Active Auras for this instead
+- small bug fixes, invisibility now wispers to the user and GM instead of announcing publicly
