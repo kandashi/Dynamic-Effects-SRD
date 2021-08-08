@@ -1,19 +1,14 @@
+![](https://img.shields.io/badge/Foundry-v0.8.8-informational)
+[Latest Release Download Count](https://img.shields.io/github/downloads/Kandashi/Dynamic-Effects-SRD/latest/module.zip)
+[Forge Installs](https://img.shields.io/badge/dynamic/json?label=Forge%20Installs&query=package.installs&suffix=%25&url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2FDynamic-Effects-SRD&colorB=4aa94a)
+
 # Dynamic-Effects-SRD
-A compendium pack for SRD items, spells, feats etc configured for use with Dynamic Active Effects, MQoL, Advanced Macros and About Time/Times Up
+A compendium pack for SRD items, feats etc configured for use with Dynamic Active Effects.
+
+The partner module to this, the <a href="https://github.com/kandashi/Midi-SRD/" target="_blank">Midi-SRD</a> has all of these items and all the SRD spells configured for use with Midi QOL
+
 --
 
-### DAE is 100% required.
-
-### MQoL and the Advanced Macros are needed for auto effect application 
-Effects without macro calls do not need Advanced Macros. For MQoL, the setting "Auto apply Active Effects to targets" must be enabled for any "Active Effect" to correctly apply to the target. Some sort of Auto-Check for hit/save must also be enabled to apply the effects:
-![Midi Settings 1](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Midi%20Settings.PNG)
-![Midi Settings 2](https://github.com/kandashi/Dynamic-Effects-SRD/blob/master/Images/Midi%20Settings%202.PNG)
-
-### About Time/Times Up are required for auto effect removal. About Time for non-combat expiry, Times Up for in-combat expiry
-Without About Time or Times Up (or for effects that finish before their full time; navigate to the Active Effects tab of the effected actor and remove the Active Effect manually.
-
-## Any macro style effect is now embedded in the item itself
- This means they should be simply drag-click to use. If you use Item Macros with character sheet hooks turned on, you will need to use the "roll default item" option to trigger these macros
 
 ## Magic Items module is now included in the compendium packs
 - Compendium pack is named SRD Magic Items
@@ -27,14 +22,14 @@ Without About Time or Times Up (or for effects that finish before their full tim
 
 **V0.1.0** Most higher level spells without macro effects have been added. Macros now have the option to be stored within the item itself (thanks to the Item Macro functionality)  
 
-**V0.2.0** Updated to DAE and 0.7.5 compatability, removed item macros (you can add/edit them yourself if you really need to) 
+**V0.2.0** Updated to DAE and 0.7.5 compatibility, removed item macros (you can add/edit them yourself if you really need to) 
 
 **V0.2.1-6** Various fixes and updates
 
 **V3.0.0** Added support for Magic Items
 
 **V3.0.2** 
-- Fixed Staff of Power, Broom of Flying, Boots of Speed, Boots of Striding and Springing, Potion of Flying, Aid and Haste, reworked Longstrider, Slow, Spiderclimb and Fly to not reqiuire macros.
+- Fixed Staff of Power, Broom of Flying, Boots of Speed, Boots of Striding and Springing, Potion of Flying, Aid and Haste, reworked Longstrider, Slow, Spiderclimb and Fly to not require macros.
 - Boots of Levitation moved to Magic Items
 - Added Wings of Flying
 
@@ -47,7 +42,7 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 - Updated a lot of spells/items to fall in line with DnD5e 1.2.0, Midi 0.3.35 and DAE 0.2.28
 - Added experimental version of Bracers of Archery, Alter Self and Deamon Armor to take use of the item effects from DAE
 - Added Dust of Disappearance, Goggles of Night, Horseshoes of Speed, Boots of Elvenkind
-- Added Midi versions of Invisibility and Heroes' Feast for timeouts and advanatage on wis saves
+- Added Midi versions of Invisibility and Heroes' Feast for timeouts and advantage on wis saves
 - Updated Blindness/Deafness to not require a macro
 - Added specific damage types for Divine Favour
 - Added Contagion, Divine Word (requires About Time), Faerie Fire, Feeblemind, True Strike spells, all require Midi some need CUB (Contagion and Divine Word)
@@ -63,13 +58,13 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 **V4.1.0**
 - [BREAKING] All DAE SRD macro spells now almost require Times Up for correct removal, it will not prevent use, but lots of the spells require its functionality now
 - [BREAKING] All DAE SRD spells now use Item Macros. This **does not** require you to install that module. The spells will now run without importing any macros at all
-- Added Arcane Sword, Beacon of Hope, Call Lightning, Confusion, Faerie Fire, Flesh to Stone, Grease, Misty Step, Irresistable Dance and Warding Bond
+- Added Arcane Sword, Beacon of Hope, Call Lightning, Confusion, Faerie Fire, Flesh to Stone, Grease, Misty Step, Irresistible Dance and Warding Bond
 - Fixed Moonbeam and Cloak of Displacement
 
 **V4.1.08**
 - Fixed Slippers of Climbing, Wings of Flying, Spider Climb, Invisibility spells and cleaned up spare versions
 - Added Web
-- Added Bug Reporter compatability https://github.com/League-of-Foundry-Developers/bug-reporter
+- Added Bug Reporter compatibility https://github.com/League-of-Foundry-Developers/bug-reporter
 
 **V4.1.13**
 -Fixed Spiritual Weapon, Magic Weapon. 
@@ -79,4 +74,7 @@ IF you want to support me my patreon is here https://www.patreon.com/Kandashi
 **V5.0.00**
 -0.8.6 updates
 -Sickening Radiance spell removed, use Active Auras for this instead
-- small bug fixes, invisibility now wispers to the user and GM instead of announcing publicly
+- small bug fixes, invisibility now whispers to the user and GM instead of announcing publicly
+
+**V6**
+- All Midi items/spells etc have been moved to the MIDI SRD
