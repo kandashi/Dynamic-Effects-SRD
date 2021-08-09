@@ -18,22 +18,9 @@
 			"module": "Dynamic Effects Items"
 		},
 		{
-			"name": "DAE SRD Spells",
-			"label": "DAE SRD Spells",
-			"path": "packs/spells.db",
-			"entity": "Item",
-			"module": "Dynamic Effects Items"
-		},
-		{
 			"name": "DAE SRD Feats",
 			"label": "DAE SRD Feats",
 			"path": "packs/feats.db",
-			"entity": "Item",
-			"module": "Dynamic Effects Items"
-		},
-            {	"name": "DAE SRD Midi-collection",
-			"label": "DAE SRD Midi-collection",
-			"path": "packs/MidiItems.db",
 			"entity": "Item",
 			"module": "Dynamic Effects Items"
 		},
