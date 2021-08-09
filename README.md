@@ -5,7 +5,7 @@
 # Dynamic-Effects-SRD
 A compendium pack for SRD items, feats etc configured for use with Dynamic Active Effects.
 
-The partner module to this, the <a href="https://github.com/kandashi/Midi-SRD/" target="_blank">Midi-SRD</a> has all of these items and all the SRD spells configured for use with Midi QOL
+The partner module to this, the <a href="https://github.com/kandashi/midi-srd/" target="_blank">Midi-SRD</a> has all of these items and all the SRD spells configured for use with Midi QOL
 
 --
 
